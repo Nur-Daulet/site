@@ -1,2 +1,2 @@
-My first project gits
+My first project git
 System.out.println("Hello world");
