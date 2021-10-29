@@ -1,2 +1,3 @@
 My first project gits
 System.out.println("Hello world");
+print("Hello world !")
